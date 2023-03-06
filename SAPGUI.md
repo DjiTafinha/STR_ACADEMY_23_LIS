@@ -5,11 +5,11 @@
 
 DESC: Stratesys - Sócrates - DEV
 
-APLICATION SERVER: 192.168.1.34
+APLICATION SERVER: socrates.stratesys.es
 
 INSTANCE NUMBER: 01
 
 SYSTEM ID: ECC
 
-SAPROUTER STRING: /H/217.111.220.70/S/3299
+SAPROUTER STRING: /H/torrelaguna.stratesys.es
 
