@@ -13,3 +13,9 @@ SYSTEM ID: ECC
 
 SAPROUTER STRING: /H/torrelaguna.stratesys.es
 
+
+
+
+O TAL SEM WINDOWS
+
+https://blogs.sap.com/2022/03/04/notes-on-installing-sapgui-for-java-for-macos/
