@@ -26,4 +26,5 @@ https://blogs.sap.com/2022/03/04/notes-on-installing-sapgui-for-java-for-macos/
 SAP LOGON:
 
  User : STR_HSI
- Password : Tssucasa2
+ 
+ Password : Tssucasa1
